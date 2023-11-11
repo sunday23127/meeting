@@ -39,7 +39,7 @@
         {       
             var URL = 'https://access.line.me/oauth2/v2.1/authorize?';
             URL += 'response_type=code';
-            URL += '&client_id=2000638575';//
+            URL += '&client_id=2001604127';//
             URL += '&redirect_uri=https://meetingorder.azurewebsites.net/login/login.php';
             URL += '&state=abc123';
             URL += '&scope=openid%20profile';
